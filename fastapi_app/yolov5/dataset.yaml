@@ -1,0 +1,8 @@
+names:
+- Aircraft
+- ship
+- vehicle
+nc: 3
+test: SkyFusion/test
+train: SkyFusion/train
+val: SkyFusion/val
