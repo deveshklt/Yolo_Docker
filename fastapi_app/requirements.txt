@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+torch
+torchvision
+opencv-python-headless
+numpy
+pandas
+requests
+ultralytics
+tqdm
+Pillow
+PyYAML
+matplotlib
+scipy
+seaborn
+python-multipart
