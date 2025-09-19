@@ -1,4 +1,4 @@
-This Repo Contains the Custom Yolo Model trained on satellite imaginary.
+This Repo Contains the Custom Yolo Model trained on satellite imaginary.(Now trained on only 1 epoch due time limit for assignment)
 # TO test the app
 Simply Clone Repo
 cd Yolo_Docker
